@@ -1,5 +1,6 @@
 //Removed import java.io.*; because the program deemed it necessary.
 //Carolina Cárdenas y Jessica Villarreal 
+//A01176418
 
 public class Areas {
 	
